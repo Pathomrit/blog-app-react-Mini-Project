@@ -1,0 +1,17 @@
+img{
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+p{
+    width: 90%;
+    max-width: 1140px;
+    margin: 20px auto;
+}
+strong{
+    width: 90%;
+    max-width: 1140px;
+    margin: auto;
+    font-size: 26px;
+}
+

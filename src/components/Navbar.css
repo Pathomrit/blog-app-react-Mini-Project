@@ -1,0 +1,34 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #333;
+  padding: 1rem 0;
+}
+
+.logo,
+.nav-list {
+  margin: 0 4rem;
+}
+
+.logo{
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.nav-list{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.list{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.list:hover{
+    color: red;
+    text-decoration: underline;
+}
